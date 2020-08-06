@@ -1,2 +1,2 @@
-# Compare-Multiple-Files-in-Excel-using-Python-Pandas
+# Merge-Multiple-Files-in-Excel-using-Python-Pandas
 Compare Multiple Files in Excel using Python Pandas
